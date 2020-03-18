@@ -72,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Chenyang Fang started off as a business major interested in Venture Capital and then quickly shifted his main focus to Statistics & Artificial Intelligence. He is determined to pursue a career in Quantitative Trading and likely a PhD in EECS.
+Chenyang Fang started off as a business major interested in Venture Capital and then quickly shifted his main focus to Statistics & Artificial Intelligence. He is determined to pursue a career in Quantitative Trading and likely a PhD in EECS. He completed the coursework of Accelerated Master in EE in the sophomore year at age 19.
