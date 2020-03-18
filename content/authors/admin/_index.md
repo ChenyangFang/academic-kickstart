@@ -52,7 +52,7 @@ social:
   link: https://www.linkedin.com/in/cyfang
 - icon: weixin
   icon_pack: fab
-  link: https://chenyangfang.github.io/#contact
+  link: https://chenyangfang.github.io/index.html/#contact
 - icon: github
   icon_pack: fab
   link: https://github.com/chenyangfang
