@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Chenyang Fang
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,34 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Undergraduate Student in Statistics, Finance
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Pennsylvania
+  url: "upenn.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm interested in applying Artificial Intelligence & Robotic Science in Quantitative Trading and Venture Capital
 
 interests:
 - Artificial Intelligence
+- Control Theory
 - Computational Linguistics
-- Information Retrieval
+- Information Theory & High-Dimensional Statistics
+- Quantitative Finance
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc in Computer & Information Science
+    institution: University of Pennsylvania
+    year: 2022 (Starting 2022)
+  - course: Accel. MSc in Electrical Engineering
+    institution: University of Pennsylvania
+    year: 2022 (Finished in 2020)
+  - course: BSc in Economics (Statistics, Finance)
+    institution: University of Pennsylvania, The Wharton School
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +46,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: '#mailto:cyfang@wharton.upenn.edu'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.linkedin.com/in/cyfang
+- icon: weixin
+  icon_pack: fab
+  link: https://chenyangfang.github.io/#contact
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/chenyangfang
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Chenyang Fang started off as a business major interested in Venture Capital and then quickly shifted his main focus to Statistics & Artificial Intelligence. He is determined to pursue a career in Quantitative Trading and likely a PhD in EECS.
